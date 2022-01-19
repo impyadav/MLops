@@ -1,0 +1,4 @@
+outs:
+- md5: cdaaba41d42edeb53bdc740c46b3acdc
+  size: 4353
+  path: hi_sample.txt
