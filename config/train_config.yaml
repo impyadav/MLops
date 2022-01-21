@@ -7,7 +7,7 @@ model_name: sgns_pytorch.pth
 
 
 #parameters
-EPOCHS: 500
+EPOCHS: 1000
 Embedding_Size: 128
 Context_Window: 4
 PRINT_EVERY: 100
