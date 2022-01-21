@@ -1,0 +1,14 @@
+#Initial setting
+data_dir: data/
+source_file: data/raw/hi_sample.txt
+
+model_dir: models/
+model_name: sgns_pytorch.pth
+
+
+#parameters
+EPOCHS: 500
+Embedding_Size: 128
+Context_Window: 4
+PRINT_EVERY: 100
+
