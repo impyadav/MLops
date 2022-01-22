@@ -1,0 +1,5 @@
+pytorch
+pyyaml
+fastapi
+uvicorn[standard]
+pydantic
